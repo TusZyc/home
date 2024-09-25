@@ -5,14 +5,14 @@
     "link": "https://blog.ontus.cn/"
   },
   {
-    "icon": "Blog",
+    "icon": "ChatBot",
     "name": "GPT",
     "link": "https://gpt.ontus.cn/"
   },
   {
-    "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "icon": "MovieSharp",
+    "name": "影视",
+    "link": "https://film.ontus.cn/"
   },
   {
     "icon": "CompactDisc",
@@ -23,6 +23,11 @@
     "icon": "Compass",
     "name": "起始页",
     "link": "https://nav.ontus.cn/"
+  },
+  {
+    "icon": "Cloud",
+    "name": "网盘",
+    "link": "https://pan.imsyy.top/"
   },
   {
     "icon": "Fire",
