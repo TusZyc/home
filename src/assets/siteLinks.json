@@ -5,7 +5,7 @@
     "link": "http://blog.ontus.cn/"
   },
   {
-    "icon": "Rocketchat",
+    "icon": "Brain",
     "name": "GPT",
     "link": "http://gpt.ontus.cn/"
   },
@@ -20,14 +20,29 @@
     "link": "http://music.ontus.cn/"
   },
   {
-    "icon": "Cloud",
-    "name": "网盘",
-    "link": "http://pan.ontus.cn/"
-  },
-  {
     "icon": "Compass",
     "name": "起始页",
     "link": "http://nav.ontus.cn/"
+  },
+  {
+    "icon": "Rocketchat",
+    "name": "聊天室",
+    "link": "http://chat.ontus.cn/"
+  },
+  {
+    "icon": "Link",
+    "name": "短链接",
+    "link": "http://s.ontus.cn/"
+  },
+  {
+    "icon": "PhotoVideo",
+    "name": "图床",
+    "link": "http://imgurl.ontus.cn/"
+  },
+  {
+    "icon": "Cloud",
+    "name": "远程桌面",
+    "link": "http://link.ontus.cn/"
   },
   {
     "icon": "LaptopCode",
