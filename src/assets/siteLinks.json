@@ -35,6 +35,16 @@
     "link": "http://s.ontus.cn/admin/"
   },
   {
+    "icon": "Video",
+    "name": "视频解析",
+    "link": "http://jx.ontus.cn/"
+  },
+  {
+    "icon": "Vihara",
+    "name": "网页PS",
+    "link": "http://ps.ontus.cn/"
+  },
+  {
     "icon": "PhotoVideo",
     "name": "图床",
     "link": "http://imgurl.ontus.cn/"
